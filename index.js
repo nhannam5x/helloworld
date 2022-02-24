@@ -1,2 +1,2 @@
 console.log("Hello World");
-console.log("Controll All");
+console.log("Controll");
